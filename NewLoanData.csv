@@ -1,0 +1,501 @@
+Risk,Length,Credit,Balance,Approved
+Low,10,Very Low,60000,Yes
+Medium,11,Good,65000,No
+Medium,12,Good,45000,Yes
+High,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+High,12,Good,45000,Yes
+High,10,Low,60000,Yes
+Very High,11,Very Low,65000,Yes
+Very High,12,Very Low,45000,No
+Low,10,Very Low,10000,Yes
+Low,11,Good,10000,Yes
+Very High,12,Good,10000,Yes
+Low,10,Very Low,10000,Yes
+Low,11,Good,35000,Yes
+High,12,Low,35000,Yes
+High,10,Low,35000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+High,11,Low,45000,No
+Low,11,Very Good,60000,Yes
+High,11,Good,65000,No
+Low,37,Very Low,45000,Yes
+Medium,38,Good,60000,Yes
+Very High,39,Very Low,65000,No
+High,37,Good,45000,Yes
+High,38,Very Low,10000,Yes
+High,39,Excellent,10000,No
+High,37,Excellent,10000,No
+Low,38,Good,10000,Yes
+Low,39,Good,35000,Yes
+Low,37,Good,35000,Yes
+High,38,Good,35000,Yes
+Low,39,Good,60000,No
+Low,37,Good,65000,Yes
+Low,38,Good,45000,Yes
+Low,39,Very Low,60000,Yes
+Very High,37,Very Low,65000,Yes
+High,38,Very Low,45000,Yes
+Very High,39,Good,60000,No
+Very High,37,Very Low,65000,Yes
+Very High,38,Good,45000,No
+High,39,Low,10000,Yes
+Low,37,Excellent,10000,Yes
+High,38,Good,10000,Yes
+Low,39,Good,10000,No
+Low,37,Good,35000,Yes
+Low,38,Good,35000,Yes
+Very High,39,Good,35000,Yes
+Very High,37,Good,60000,Yes
+Low,10,Very Low,65000,Yes
+High,11,Very Low,45000,Yes
+High,12,Good,60000,No
+Very High,10,Good,65000,Yes
+Very High,11,Excellent,45000,No
+Low,12,Very Low,60000,Yes
+Very High,10,Very Low,65000,Yes
+Low,11,Very Low,45000,No
+Medium,12,Very Low,10000,Yes
+High,10,Good,10000,Yes
+High,11,Excellent,10000,No
+Low,12,Very Low,10000,Yes
+High,10,Good,35000,Yes
+High,11,Very Low,35000,Yes
+High,12,Low,35000,Yes
+Low,10,Good,60000,Yes
+High,11,Good,65000,Yes
+Low,12,Low,45000,Yes
+High,11,Very Low,60000,Yes
+Low,11,Good,65000,Yes
+High,11,Very Low,45000,No
+Low,37,Very Good,60000,No
+High,38,Good,65000,Yes
+Very High,39,Good,45000,Yes
+High,37,Good,10000,Yes
+High,38,Low,10000,Yes
+Medium,39,Good,10000,Yes
+High,37,Good,10000,Yes
+Low,38,Very Low,35000,No
+Very High,39,Good,35000,Yes
+Low,37,Very Low,35000,Yes
+Very High,38,Good,60000,No
+Very High,39,Very Low,65000,Yes
+Very High,37,Very Low,45000,No
+High,38,Very Low,60000,Yes
+Very High,39,Good,65000,No
+Low,37,Very Low,45000,Yes
+Low,38,Good,60000,Yes
+Medium,39,Very Low,65000,Yes
+High,37,Good,45000,No
+Very High,38,Very Low,10000,Yes
+Very High,39,Good,10000,Yes
+High,37,Good,10000,No
+High,38,Very Low,10000,Yes
+Very High,39,Very Low,35000,No
+High,37,Good,35000,Yes
+Very High,38,Low,35000,No
+Low,39,Good,60000,Yes
+Low,37,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Very Low,60000,Yes
+Low,12,Low,65000,Yes
+High,10,Good,45000,No
+High,11,Very Low,60000,Yes
+Medium,12,Good,65000,Yes
+Medium,10,Good,45000,Yes
+High,11,Good,10000,Yes
+Very High,12,Good,10000,Yes
+Very High,10,Good,10000,No
+Low,11,Very Low,10000,Yes
+High,12,Very Good,35000,Yes
+Very High,10,Very Low,35000,Yes
+Low,11,Very Low,35000,Yes
+Very High,12,Very Low,60000,Yes
+Low,10,Very Low,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,60000,Yes
+Medium,11,Good,65000,Yes
+High,11,Very Low,45000,Yes
+High,11,Low,60000,Yes
+Very High,37,Good,65000,No
+Very High,38,Very Low,45000,Yes
+Very High,39,Very Good,10000,Yes
+High,37,Good,10000,Yes
+Low,38,Very Low,10000,Yes
+Low,39,Very Low,10000,Yes
+Low,37,Very Low,35000,Yes
+Low,38,Good,35000,Yes
+High,39,Good,35000,Yes
+Low,37,Good,60000,Yes
+Low,38,Good,65000,Yes
+Very High,39,Good,45000,No
+High,37,Good,60000,Yes
+Low,38,Good,65000,Yes
+High,39,Very Low,45000,No
+Very High,37,Excellent,60000,No
+Low,38,Good,65000,Yes
+High,39,Low,45000,No
+High,37,Good,10000,Yes
+Very High,38,Low,10000,No
+Low,39,Very Good,10000,No
+Very High,37,Good,10000,Yes
+Very High,38,Very Low,35000,Yes
+Low,39,Good,35000,Yes
+Very High,37,Very Low,35000,Yes
+Low,38,Low,60000,No
+High,39,Low,65000,No
+Very High,37,Very Good,45000,No
+Low,10,Very Low,60000,Yes
+High,11,Very Low,65000,No
+Low,12,Very Low,45000,Yes
+High,10,Very Good,60000,No
+High,11,Very Low,65000,Yes
+Very High,12,Good,45000,No
+High,10,Excellent,10000,Yes
+Low,11,Good,10000,No
+High,12,Excellent,10000,No
+High,10,Good,10000,No
+Low,11,Good,35000,Yes
+High,12,Good,35000,No
+High,10,Very Low,35000,No
+Low,11,Very Low,60000,Yes
+High,12,Good,65000,No
+High,10,Good,45000,Yes
+High,11,Low,60000,No
+Very High,12,Very Low,65000,Yes
+High,11,Good,45000,No
+Low,11,Very Low,60000,Yes
+Very High,11,Good,65000,Yes
+Very High,37,Low,45000,No
+Low,38,Good,10000,Yes
+Low,39,Good,10000,Yes
+High,37,Good,10000,Yes
+Low,38,Good,10000,Yes
+High,39,Very Low,35000,No
+High,37,Good,35000,No
+Very High,38,Good,35000,No
+High,39,Good,60000,Yes
+Very High,37,Very Low,65000,No
+Very High,38,Good,45000,Yes
+Very High,39,Good,60000,No
+Low,37,Very Low,65000,Yes
+Very High,38,Excellent,45000,Yes
+High,39,Good,60000,No
+Low,37,Good,65000,Yes
+Low,38,Very Low,45000,Yes
+Very High,39,Good,10000,Yes
+Very High,37,Very Low,10000,Yes
+High,38,Very Low,10000,Yes
+Low,39,Very Low,10000,Yes
+Very High,37,Good,35000,Yes
+Low,38,Excellent,35000,Yes
+Medium,39,Very Good,35000,Yes
+High,37,Good,60000,Yes
+Very High,38,Low,65000,No
+High,39,Good,45000,Yes
+Very High,37,Good,60000,Yes
+High,37,Good,65000,Yes
+Low,37,Very Low,45000,Yes
+Medium,37,Good,60000,Yes
+High,37,Very Low,65000,No
+Low,10,Good,45000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,60000,Yes
+Low,10,Good,65000,Yes
+Low,11,Good,45000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,60000,Yes
+Low,11,Good,65000,Yes
+Low,12,Good,45000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,10,Good,10000,Yes
+Low,11,Good,35000,Yes
+Low,12,Good,35000,Yes
+Low,10,Good,35000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,60000,Yes
+Low,12,Good,65000,Yes
+Low,10,Good,45000,Yes
+Low,11,Good,10000,Yes
+Low,12,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,11,Good,10000,Yes
+Low,11,Good,35000,Yes
+Medium,37,Low,35000,No
+Medium,38,Low,35000,No
+Medium,39,Low,60000,No
+Medium,37,Low,65000,No
+Medium,38,Low,45000,No
+Medium,39,Low,60000,No
+Medium,37,Low,65000,No
+Medium,38,Low,45000,No
+Medium,39,Low,60000,No
+Medium,37,Low,65000,No
+Medium,38,Low,45000,No
+Medium,39,Low,10000,No
+Medium,37,Low,10000,No
+Medium,38,Low,10000,No
+Medium,39,Low,10000,No
+Medium,37,Low,35000,No
+Medium,38,Low,35000,No
+Medium,39,Low,35000,No
+Medium,37,Low,60000,No
+Medium,38,Low,65000,No
+Medium,39,Low,45000,No
+Medium,37,Low,60000,No
+Medium,38,Low,65000,No
+Medium,39,Low,45000,No
+Medium,37,Low,60000,No
+Medium,38,Low,65000,No
+Medium,39,Low,45000,No
+Medium,37,Low,10000,No
+Medium,38,Low,10000,No
+Medium,39,Low,10000,No
+Medium,37,Low,10000,No
+Medium,38,Low,35000,No
+Medium,39,Low,35000,No
+Medium,37,Low,35000,No
+Medium,38,Low,60000,No
+Medium,39,Low,65000,No
+Medium,37,Low,45000,No
+Medium,38,Low,60000,No
+Medium,39,Low,65000,No
+Medium,37,Low,45000,No
+Medium,38,Low,60000,No
+Medium,39,Low,65000,No
+Medium,37,Low,45000,No
+Medium,38,Low,10000,No
+Medium,39,Low,10000,No
+Medium,37,Low,10000,No
+Medium,38,Low,10000,No
+Medium,39,Low,35000,No
+Medium,37,Low,35000,No
+Medium,38,Low,35000,No
+Medium,39,Low,60000,No
+Medium,37,Low,65000,No
+Medium,38,Low,45000,No
+Medium,39,Low,60000,No
+Medium,37,Low,65000,No
+Medium,38,Low,45000,No
+Medium,39,Low,60000,No
+Medium,37,Low,65000,No
+Medium,38,Low,45000,No
+Medium,39,Low,10000,No
+Medium,37,Low,10000,No
+Medium,38,Low,10000,No
+Medium,39,Low,10000,No
+Medium,37,Low,35000,No
+Medium,38,Low,35000,No
+Medium,39,Low,35000,No
+Medium,37,Low,60000,No
+Medium,38,Low,65000,No
+Medium,39,Low,45000,No
+Medium,37,Low,60000,No
+Medium,38,Low,65000,No
+Medium,39,Low,45000,No
+Medium,37,Low,60000,No
+Medium,38,Low,65000,No
+Medium,39,Low,45000,No
+Medium,37,Low,10000,No
+Medium,38,Low,10000,No
+Medium,39,Low,10000,No
+Medium,37,Low,10000,No
+Medium,38,Low,35000,No
+Medium,39,Low,35000,No
+Medium,37,Low,35000,No
+Medium,38,Low,60000,No
+Medium,39,Low,65000,No
+Medium,37,Low,45000,No
+Medium,38,Low,60000,No
+Medium,39,Low,65000,No
+Medium,37,Low,45000,No
+Medium,38,Low,60000,No
+Medium,39,Low,65000,No
+Medium,37,Low,45000,No
+Medium,38,Low,10000,No
+Medium,39,Low,10000,No
+Medium,37,Low,10000,No
+Medium,38,Low,10000,No
+Medium,39,Low,35000,No
+Medium,37,Low,35000,No
+Medium,38,Low,35000,No
+Medium,39,Low,60000,No
+Medium,37,Low,65000,No
+Medium,38,Low,45000,No
+Medium,39,Low,60000,No
